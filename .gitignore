@@ -1,0 +1,4 @@
+# Project exclude paths
+/RockPaperScissors/.gradle/
+/RockPaperScissors/build/
+/RockPaperScissors/build/classes/java/main/
